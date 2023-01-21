@@ -11,21 +11,21 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 //Ini Jangan di hapus ya mas Nanti eror//
 //============[ Pembatas ]==========
-global.owner = ["628xx","628xxx"]
-global.ownername = "TOBOT V4" //nama bot
-global.ytname = "YT: Lenttobs" //yt lu kalao ada
+global.owner = ["6283849469400","6283802603905"]
+global.ownername = "Ega @powered by ghost-bot" //nama owner bot
+global.ytname = "YT: ftv-lovers" //yt lu kalao ada
 global.socialm = "Ngapa Bro? Donate La bro etdah"
-global.location = "Indonesia, Jatim, Lmh"
+global.location = "Indonesia, Sumut, medan"
 global.dana = "08xxx"
 global.pulsa = "08xxx"
 global.gopay = "08xxx"
 global.donasiowner = "nomorowner tpi gausa kosong kan aja ini gini aja Soalnya ga kepake"
 
 //bot bomdy 
-global.ownernomer = ["628xx","628xx"]
-global.premium = ['628xx'] 
-global.botname = 'TOBOT V4' 
-global.linkz = "https://chat.whatsapp.com/LRCGXKpjpznInErL9t" 
+global.ownernomer = ["6283849469400","6283802603905"]
+global.premium = ['6283849469400','6283802603905'] 
+global.botname = 'tobot openai @powered by ghost-bot' 
+global.linkz = "https://chat.whatsapp.com/JEQc02Qcozq04TwDxswbRQ" 
 global.websitex = "https://youtu.be/BwTSHvgjB7w" 
 global.themeemoji = "♥️" 
 global.packname = "Sticker By"
@@ -60,12 +60,12 @@ global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
-    monayawal: 1000
+    free: 1000,
+    monayawal: 10000
 }
 global.limitAwal = {
  prem: 'Unlimited',
- free: 70
+ free: 700
 }
 
 let file = require.resolve(__filename)
